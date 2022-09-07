@@ -1,6 +1,5 @@
 # This App gives the summary of user and his Repostories
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project can be accessed through [this link] (https://stupendous-zabaione-4920d8.netlify.app)
 
 ## Local Setup
 
